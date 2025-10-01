@@ -77,7 +77,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo**
     ```sh
-    git clone [[https://github.com/lakshita07232308/file-sharing-platform.git](https://github.com/lakshita07232308/file-sharing-platform.git)]
+    git clone [[https://github.com/utkarshzzz/file-sharing-platform.git](https://github.com/utkarshzzz/file-sharing-platform.git)]
     ```
 2.  **Deploy AWS Resources**
     * Set up a User Pool in AWS Cognito.
